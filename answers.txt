@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Q1: Why might be consider using git?
 
 Answer: Easily share and update our projects with teammates and group members.
+=======
+Q2: What field could data science be applied to? Give and Example and how it might help.
+
+Answer: Data scientists use their skills to extract insights from large amounts of information to provide actionable solutions, 
+
+so that can be applied in healthcare, automotive industry, retail, and finance.
+>>>>>>> q2
