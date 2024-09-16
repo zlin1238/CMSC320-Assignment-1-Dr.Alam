@@ -15,3 +15,7 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging is a safe option that preserves the entire history of your repository,
 
 However, rebasing creates a linear history by moving your feature branch onto the tip of the main branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Learn more about data science
