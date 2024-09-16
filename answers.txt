@@ -9,3 +9,9 @@ Answer: Data scientists use their skills to extract insights from large amounts 
 
 so that can be applied in healthcare, automotive industry, retail, and finance.
 >>>>>>> q2
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging is a safe option that preserves the entire history of your repository,
+
+However, rebasing creates a linear history by moving your feature branch onto the tip of the main branch.
